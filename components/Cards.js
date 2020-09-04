@@ -51,6 +51,10 @@ const cardCreator = function (data) {
   imgDiv.appendChild(image);
   author.appendChild(name);
 
+  parentCardDiv.addEventListener("click", () => {
+    console.log(data.headline);
+  });
+
   return parentCardDiv;
 };
 
