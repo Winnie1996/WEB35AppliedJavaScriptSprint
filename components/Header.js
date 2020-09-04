@@ -32,8 +32,8 @@ function Header() {
   // temp.textContent = '98 degrees';
 
   date.textContent = "September 4, 2020";
-  header1.textContent = "Tragic News Time";
-  temperature.textContent = "Back to School Time";
+  header1.textContent = "Sprint Challenge Time";
+  temperature.textContent = "Lambda more like Lamb duh ";
 
   //Adding to the DOM by appending
 
